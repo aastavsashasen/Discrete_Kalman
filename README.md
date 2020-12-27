@@ -17,10 +17,13 @@ The procedure for generating state estimates is as follows:
 ![](kalman_images/kalman_procedure.PNG)
 
 For a constant input case u(t) = 1:
+
 ![](kalman_images/u1.PNG)
 ![](kalman_images/u1_error.PNG)
 ![](kalman_images/u1_est.PNG)
+
 For a sinusoidal input case u(t) = sin(0.5t):
+
 ![](kalman_images/u2.PNG)
 ![](kalman_images/u2_error.PNG)
 ![](kalman_images/u2_est.PNG)
