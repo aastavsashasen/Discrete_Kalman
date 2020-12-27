@@ -4,7 +4,7 @@ Discrete Kalman Filter Application
 The following is an example of an application of a Discrete time Kalman Filter for state estimation for a State-Space system. The state space system is 3x3 but may easilt be extended. The system is SISO and is written in MATLAB.
 
 ![](kalman_images/gaus_disc.PNG)
-![](kalman_images/cont_time.PNG)
+![](kalman_images/cont_time2.PNG)
 
 The discrete time approximation for the system (to be used in simulation) is as follows:
 
